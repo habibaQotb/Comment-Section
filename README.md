@@ -1,19 +1,47 @@
-# React + Vite
+# Comment Section
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple comment section web application.
 
-Currently, two official plugins are available:
+## Preview
+<img width="1512" height="1252" alt="image" src="https://github.com/user-attachments/assets/8e0867da-7ead-44ec-a16b-f31bdee1e5a3" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Getting Started
 
-## React Compiler
+Follow these instructions to get a local copy up and running on your machine.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+### Prerequisites
 
-Note: This will impact Vite dev & build performances.
-You can also try [the experimental native React Compiler support in plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md#rust-react-compiler) by using `compiler: true` in the plugin options instead of using the Babel plugin.
+Make sure you have [Node.js](https://nodejs.org/) installed on your system.
 
-## Expanding the ESLint configuration
+### Installation & Running
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the repository**
+```bash
+git clone https://github.com/habibaQotb/Comment-Section.git
+
+```
+
+
+2. **Navigate to the project directory**
+```bash
+cd Comment-Section
+
+```
+
+
+3. **Install dependencies**
+```bash
+npm install
+
+```
+
+
+4. **Start the development server**
+```bash
+npm start
+
+```
+
+
+
+Open [http://localhost:3000](http://localhost:3000) (or the port specified in your terminal) to view it in your browser.
